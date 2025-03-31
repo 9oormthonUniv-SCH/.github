@@ -46,8 +46,8 @@
       </a>
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com/your-github">
-        <img src="https://github.com/your-github.png" alt="홍지민" width="100" />
+      <a href="https://github.com/d1mm1n">
+        <img src="https://github.com/d1mm1n.png" alt="홍지민" width="100" />
       </a>
     </td>
     <td align="center" width="120px">
@@ -68,7 +68,7 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/your-github" target="_blank">
+      <a href="https://github.com/d1mm1n" target="_blank">
        홍지민
       </a>
     </td> 
