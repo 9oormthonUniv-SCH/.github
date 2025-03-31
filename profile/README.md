@@ -1,6 +1,6 @@
 <br><br>
 <p align="center">
-  <img width="600px" src="https://github.com/GOORMTONE-UNIV/.github/assets/your-thumbnail-url-here" alt="구름톤 유니브 SCH"/>
+  <img width="600px" src="https://github.com/9oormthonUniv-SCH/.github/blob/main/assets/logo.png" alt="구름톤 유니브 SCH"/>
 </p>
 <br><br>
 
@@ -27,7 +27,7 @@
 |------|-----------|------|
 | 프론트엔드 | React 기반 클론 코딩 중심 | 8주 |
 | 백엔드 | Java + SpringBoot 실습 기반 | 8주 |
-| 기획/디자인 | Notion 기반 UXUI 실무 워크샵 | 6주 |
+| 기획/디자인 | Notion 기반 UXUI 스터디 | 6주 |
 
 <br>
 
